@@ -17,38 +17,44 @@ Sylviah Rutto
 
 
 #### Setup Instructions
-In order for a user to access this project on his or her local files,clone it using these step
-Open your terminal
-Use this command $ git clone https:
-This will clone the repositoty into your local folder
+1 Ensure you have a web browser in your computer
+2 Ensure you are connected to the nternet.
 
 
 ---
 
 #### BDD
-Display a submitfunction.
-If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
-If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal".
-If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"'.
-And if the values entered by the user are unrealistic to make a triangle, the the result will be "Not a triangle".
+ 1 Display a submitfunction.
+ 2 If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
+ 3If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal".
+ 4If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"'.
+ 5 If the values entered by the user are unrealistic to make a triangle, the the result will be "Not a triangle".
 
 
 
 ---
 
 #### Technologies Used
-   **HTML**
-   **JAVA**
-   **CSS**
-  **MARKDOWN SYNTAX**
-
-
+   1 HTML
+   2 JAVA
+   3 CSS
+   4 MARKDOWN SYNTAX
+   
 ----
-#### Contact Information
+
+#### The link to the website
 https://cossie14.github.io/Triangle-Tracker-Program/
 
 
 
+----
+
+#### Contact Information
+sylviah.rutto@gmail.com
+
+
+
 ---
+
 #### License and Copyright Information
 This project is under the* *MIT* licence
