@@ -24,11 +24,11 @@ Sylviah Rutto
 ---
 
 #### BDD
- 1 Display a submitfunction.
- 2 If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
- 3If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal".
- 4If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"'.
- 5 If the values entered by the user are unrealistic to make a triangle, the the result will be "Not a triangle".
+    1 Display a submitfunction.
+    2 If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
+    3 If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal".
+    4 If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"'.
+    5 If the values entered by the user are unrealistic to make a triangle, the the result will be "Not a triangle".
 
 
 
