@@ -17,8 +17,8 @@ Sylviah Rutto
 
 
 #### Setup Instructions
-1 Ensure you have a web browser in your computer
-2 Ensure you are connected to the nternet.
+    1 Ensure you have a web browser in your computer
+    2 Ensure you are connected to the nternet.
 
 
 ---
@@ -35,10 +35,10 @@ Sylviah Rutto
 ---
 
 #### Technologies Used
-   1 HTML
-   2 JAVA
-   3 CSS
-   4 MARKDOWN SYNTAX
+    1 HTML
+    2 JAVA
+    3 CSS
+    4 MARKDOWN SYNTAX
    
 ----
 
