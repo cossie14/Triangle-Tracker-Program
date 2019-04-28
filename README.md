@@ -24,11 +24,12 @@ Sylviah Rutto
 ---
 
 #### BDD
-    1 Display a submitfunction.
-    2 If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
-    3 If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal".
-    4 If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"'.
-    5 If the values entered by the user are unrealistic to make a triangle, the the result will be "Not a triangle".
+    1 Display a submit function.
+    2 if the user does not enter any value,you will be prompted to "field all the fields correctly"
+    3 If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
+    4 If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal".
+    5 If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"'.
+    6 If the values entered by the user are not realistic to make a triangle, the the result will be "Not a triangle".
 
 
 
@@ -38,7 +39,7 @@ Sylviah Rutto
     1 HTML
     2 JAVA
     3 CSS
-    4 MARKDOWN SYNTAX
+    4 BOOTSTRAP
    
 ----
 
