@@ -19,7 +19,7 @@ Sylviah Rutto
 #### Setup Instructions
 In order for a user to access this project on his or her local files,clone it using these step
 Open your terminal
-Use this command $ git clone 
+Use this command $ git clone https:
 This will clone the repositoty into your local folder
 
 
@@ -37,10 +37,10 @@ And if the values entered by the user are unrealistic to make a triangle, the th
 ---
 
 #### Technologies Used
-**HTML**
-**JAVA**
-**CSS**
-**MARKDOWN SYNTAX**
+   **HTML**
+   **JAVA**
+   **CSS**
+  **MARKDOWN SYNTAX**
 
 
 ----
