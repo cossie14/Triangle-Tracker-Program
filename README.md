@@ -37,7 +37,7 @@ Sylviah Rutto
 
 #### Technologies Used
     1 HTML
-    2 JAVA
+    2 JAVASCRIPT
     3 CSS
     4 BOOTSTRAP
    
