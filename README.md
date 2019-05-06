@@ -1,4 +1,8 @@
 # Triangle-Tracker-Program
+   Triangle-Tracker is a simple application that is used to determine the three main types of triangles:              Isosceles,scalene and equilateral
+
+
+   
 
 
 ---
