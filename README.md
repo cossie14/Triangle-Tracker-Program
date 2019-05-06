@@ -36,6 +36,8 @@ Sylviah Rutto
 ---
 
 #### Technologies Used
+Some of the amazing technologies used to develop the application include
+     
     1 HTML
     2 JAVASCRIPT
     3 CSS
